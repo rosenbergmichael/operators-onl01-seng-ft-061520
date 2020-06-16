@@ -7,7 +7,7 @@ end
 end
 
 def not_safe?(speed)
-	
+speed < 2 ? "baby" : "not a baby"	
 end
 	
 
